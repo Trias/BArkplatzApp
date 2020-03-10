@@ -1,0 +1,723 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "paddingTop": 100,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+        "marginTop": 10,
+      }
+    }
+  >
+    Wählen Sie Ihre Parkdauer
+  </Text>
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#4EB151",
+        "borderRadius": 3,
+        "marginVertical": 50,
+        "opacity": 1,
+        "paddingHorizontal": 17,
+        "paddingVertical": 11,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontWeight": "600",
+        }
+      }
+    >
+      Zeit wählen
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+        "marginTop": 10,
+      }
+    }
+  >
+    
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+        "marginTop": 10,
+      }
+    }
+  />
+  <Modal
+    animationType="none"
+    hardwareAccelerated={false}
+    onRequestClose={[Function]}
+    supportedOrientations={
+      Array [
+        "portrait",
+        "portrait-upside-down",
+        "landscape",
+        "landscape-left",
+        "landscape-right",
+      ]
+    }
+    transparent={true}
+    visible={false}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#00000077",
+            "flex": 1,
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "flex": 1,
+            "opacity": 1,
+          }
+        }
+      />
+      <View
+        onMoveShouldSetResponder={[Function]}
+        onMoveShouldSetResponderCapture={[Function]}
+        onResponderEnd={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderReject={[Function]}
+        onResponderRelease={[Function]}
+        onResponderStart={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#fff",
+            "height": 0,
+            "overflow": "hidden",
+            "transform": Array [
+              Object {
+                "translateX": 0,
+              },
+              Object {
+                "translateY": 0,
+              },
+            ],
+            "width": "100%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderBottomWidth": 1,
+              "borderColor": "#ccc",
+              "flexDirection": "row",
+              "height": 45,
+              "justifyContent": "space-between",
+            }
+          }
+        >
+          <View
+            accessible={true}
+            isTVSelectable={true}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "center",
+                "opacity": 1,
+                "paddingHorizontal": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#006BFF",
+                    "fontSize": 20,
+                    "fontWeight": "500",
+                  },
+                  Object {
+                    "color": "#666",
+                    "fontWeight": "400",
+                  },
+                ]
+              }
+            >
+              Abbrechen
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            isTVSelectable={true}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "height": "100%",
+                "justifyContent": "center",
+                "opacity": 1,
+                "paddingHorizontal": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#006BFF",
+                  "fontSize": 20,
+                  "fontWeight": "500",
+                }
+              }
+            >
+              Fertig
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <RCTPicker
+              items={
+                Array [
+                  Object {
+                    "label": "0",
+                    "textColor": undefined,
+                    "value": "0",
+                  },
+                  Object {
+                    "label": "1",
+                    "textColor": undefined,
+                    "value": "1",
+                  },
+                  Object {
+                    "label": "2",
+                    "textColor": undefined,
+                    "value": "2",
+                  },
+                  Object {
+                    "label": "3",
+                    "textColor": undefined,
+                    "value": "3",
+                  },
+                  Object {
+                    "label": "4",
+                    "textColor": undefined,
+                    "value": "4",
+                  },
+                  Object {
+                    "label": "5",
+                    "textColor": undefined,
+                    "value": "5",
+                  },
+                  Object {
+                    "label": "6",
+                    "textColor": undefined,
+                    "value": "6",
+                  },
+                  Object {
+                    "label": "7",
+                    "textColor": undefined,
+                    "value": "7",
+                  },
+                  Object {
+                    "label": "8",
+                    "textColor": undefined,
+                    "value": "8",
+                  },
+                  Object {
+                    "label": "9",
+                    "textColor": undefined,
+                    "value": "9",
+                  },
+                  Object {
+                    "label": "10",
+                    "textColor": undefined,
+                    "value": "10",
+                  },
+                  Object {
+                    "label": "11",
+                    "textColor": undefined,
+                    "value": "11",
+                  },
+                  Object {
+                    "label": "12",
+                    "textColor": undefined,
+                    "value": "12",
+                  },
+                  Object {
+                    "label": "13",
+                    "textColor": undefined,
+                    "value": "13",
+                  },
+                  Object {
+                    "label": "14",
+                    "textColor": undefined,
+                    "value": "14",
+                  },
+                  Object {
+                    "label": "15",
+                    "textColor": undefined,
+                    "value": "15",
+                  },
+                  Object {
+                    "label": "16",
+                    "textColor": undefined,
+                    "value": "16",
+                  },
+                  Object {
+                    "label": "17",
+                    "textColor": undefined,
+                    "value": "17",
+                  },
+                  Object {
+                    "label": "18",
+                    "textColor": undefined,
+                    "value": "18",
+                  },
+                  Object {
+                    "label": "19",
+                    "textColor": undefined,
+                    "value": "19",
+                  },
+                  Object {
+                    "label": "20",
+                    "textColor": undefined,
+                    "value": "20",
+                  },
+                  Object {
+                    "label": "21",
+                    "textColor": undefined,
+                    "value": "21",
+                  },
+                  Object {
+                    "label": "22",
+                    "textColor": undefined,
+                    "value": "22",
+                  },
+                  Object {
+                    "label": "23",
+                    "textColor": undefined,
+                    "value": "23",
+                  },
+                ]
+              }
+              onChange={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              selectedIndex={0}
+              style={
+                Array [
+                  Object {
+                    "height": 216,
+                  },
+                  Object {},
+                ]
+              }
+            />
+          </View>
+          <Text
+            style={
+              Object {
+                "alignSelf": "center",
+                "fontSize": 16,
+              }
+            }
+          >
+            :
+          </Text>
+          <View
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          >
+            <RCTPicker
+              items={
+                Array [
+                  Object {
+                    "label": "00",
+                    "textColor": undefined,
+                    "value": "00",
+                  },
+                  Object {
+                    "label": "01",
+                    "textColor": undefined,
+                    "value": "01",
+                  },
+                  Object {
+                    "label": "02",
+                    "textColor": undefined,
+                    "value": "02",
+                  },
+                  Object {
+                    "label": "03",
+                    "textColor": undefined,
+                    "value": "03",
+                  },
+                  Object {
+                    "label": "04",
+                    "textColor": undefined,
+                    "value": "04",
+                  },
+                  Object {
+                    "label": "05",
+                    "textColor": undefined,
+                    "value": "05",
+                  },
+                  Object {
+                    "label": "06",
+                    "textColor": undefined,
+                    "value": "06",
+                  },
+                  Object {
+                    "label": "07",
+                    "textColor": undefined,
+                    "value": "07",
+                  },
+                  Object {
+                    "label": "08",
+                    "textColor": undefined,
+                    "value": "08",
+                  },
+                  Object {
+                    "label": "09",
+                    "textColor": undefined,
+                    "value": "09",
+                  },
+                  Object {
+                    "label": "10",
+                    "textColor": undefined,
+                    "value": "10",
+                  },
+                  Object {
+                    "label": "11",
+                    "textColor": undefined,
+                    "value": "11",
+                  },
+                  Object {
+                    "label": "12",
+                    "textColor": undefined,
+                    "value": "12",
+                  },
+                  Object {
+                    "label": "13",
+                    "textColor": undefined,
+                    "value": "13",
+                  },
+                  Object {
+                    "label": "14",
+                    "textColor": undefined,
+                    "value": "14",
+                  },
+                  Object {
+                    "label": "15",
+                    "textColor": undefined,
+                    "value": "15",
+                  },
+                  Object {
+                    "label": "16",
+                    "textColor": undefined,
+                    "value": "16",
+                  },
+                  Object {
+                    "label": "17",
+                    "textColor": undefined,
+                    "value": "17",
+                  },
+                  Object {
+                    "label": "18",
+                    "textColor": undefined,
+                    "value": "18",
+                  },
+                  Object {
+                    "label": "19",
+                    "textColor": undefined,
+                    "value": "19",
+                  },
+                  Object {
+                    "label": "20",
+                    "textColor": undefined,
+                    "value": "20",
+                  },
+                  Object {
+                    "label": "21",
+                    "textColor": undefined,
+                    "value": "21",
+                  },
+                  Object {
+                    "label": "22",
+                    "textColor": undefined,
+                    "value": "22",
+                  },
+                  Object {
+                    "label": "23",
+                    "textColor": undefined,
+                    "value": "23",
+                  },
+                  Object {
+                    "label": "24",
+                    "textColor": undefined,
+                    "value": "24",
+                  },
+                  Object {
+                    "label": "25",
+                    "textColor": undefined,
+                    "value": "25",
+                  },
+                  Object {
+                    "label": "26",
+                    "textColor": undefined,
+                    "value": "26",
+                  },
+                  Object {
+                    "label": "27",
+                    "textColor": undefined,
+                    "value": "27",
+                  },
+                  Object {
+                    "label": "28",
+                    "textColor": undefined,
+                    "value": "28",
+                  },
+                  Object {
+                    "label": "29",
+                    "textColor": undefined,
+                    "value": "29",
+                  },
+                  Object {
+                    "label": "30",
+                    "textColor": undefined,
+                    "value": "30",
+                  },
+                  Object {
+                    "label": "31",
+                    "textColor": undefined,
+                    "value": "31",
+                  },
+                  Object {
+                    "label": "32",
+                    "textColor": undefined,
+                    "value": "32",
+                  },
+                  Object {
+                    "label": "33",
+                    "textColor": undefined,
+                    "value": "33",
+                  },
+                  Object {
+                    "label": "34",
+                    "textColor": undefined,
+                    "value": "34",
+                  },
+                  Object {
+                    "label": "35",
+                    "textColor": undefined,
+                    "value": "35",
+                  },
+                  Object {
+                    "label": "36",
+                    "textColor": undefined,
+                    "value": "36",
+                  },
+                  Object {
+                    "label": "37",
+                    "textColor": undefined,
+                    "value": "37",
+                  },
+                  Object {
+                    "label": "38",
+                    "textColor": undefined,
+                    "value": "38",
+                  },
+                  Object {
+                    "label": "39",
+                    "textColor": undefined,
+                    "value": "39",
+                  },
+                  Object {
+                    "label": "40",
+                    "textColor": undefined,
+                    "value": "40",
+                  },
+                  Object {
+                    "label": "41",
+                    "textColor": undefined,
+                    "value": "41",
+                  },
+                  Object {
+                    "label": "42",
+                    "textColor": undefined,
+                    "value": "42",
+                  },
+                  Object {
+                    "label": "43",
+                    "textColor": undefined,
+                    "value": "43",
+                  },
+                  Object {
+                    "label": "44",
+                    "textColor": undefined,
+                    "value": "44",
+                  },
+                  Object {
+                    "label": "45",
+                    "textColor": undefined,
+                    "value": "45",
+                  },
+                  Object {
+                    "label": "46",
+                    "textColor": undefined,
+                    "value": "46",
+                  },
+                  Object {
+                    "label": "47",
+                    "textColor": undefined,
+                    "value": "47",
+                  },
+                  Object {
+                    "label": "48",
+                    "textColor": undefined,
+                    "value": "48",
+                  },
+                  Object {
+                    "label": "49",
+                    "textColor": undefined,
+                    "value": "49",
+                  },
+                  Object {
+                    "label": "50",
+                    "textColor": undefined,
+                    "value": "50",
+                  },
+                  Object {
+                    "label": "51",
+                    "textColor": undefined,
+                    "value": "51",
+                  },
+                  Object {
+                    "label": "52",
+                    "textColor": undefined,
+                    "value": "52",
+                  },
+                  Object {
+                    "label": "53",
+                    "textColor": undefined,
+                    "value": "53",
+                  },
+                  Object {
+                    "label": "54",
+                    "textColor": undefined,
+                    "value": "54",
+                  },
+                  Object {
+                    "label": "55",
+                    "textColor": undefined,
+                    "value": "55",
+                  },
+                  Object {
+                    "label": "56",
+                    "textColor": undefined,
+                    "value": "56",
+                  },
+                  Object {
+                    "label": "57",
+                    "textColor": undefined,
+                    "value": "57",
+                  },
+                  Object {
+                    "label": "58",
+                    "textColor": undefined,
+                    "value": "58",
+                  },
+                  Object {
+                    "label": "59",
+                    "textColor": undefined,
+                    "value": "59",
+                  },
+                ]
+              }
+              onChange={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              selectedIndex={0}
+              style={
+                Array [
+                  Object {
+                    "height": 216,
+                  },
+                  Object {},
+                ]
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </Modal>
+</View>
+`;

@@ -1,0 +1,559 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  visible={true}
+>
+  <RCTScrollView
+    contentContainerStyle={
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 44,
+        "paddingTop": 22,
+        "position": "relative",
+        "width": "100%",
+      }
+    }
+  >
+    <View>
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "lineHeight": 40,
+            "opacity": 1,
+            "position": "absolute",
+            "right": 0,
+            "top": 30,
+            "zIndex": 100,
+          }
+        }
+      >
+        <Text />
+      </View>
+      <Text
+        style={
+          Object {
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "lineHeight": 44,
+          }
+        }
+      >
+        Parkplatz undefined merken
+      </Text>
+      <Text
+        style={
+          Object {
+            "marginBottom": 15,
+            "marginTop": 5,
+          }
+        }
+      >
+        Wie lange wollen Sie parken?
+      </Text>
+      <View
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#4EB151",
+            "borderRadius": 3,
+            "marginVertical": 50,
+            "opacity": 1,
+            "paddingHorizontal": 17,
+            "paddingVertical": 11,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#FFFFFF",
+              "fontSize": 16,
+              "fontWeight": "600",
+            }
+          }
+        >
+          Zeit wählen
+        </Text>
+      </View>
+      <Text>
+        Erinnere mich in 
+        01:00
+         Stunden
+      </Text>
+      <Modal
+        animationType="none"
+        hardwareAccelerated={false}
+        onRequestClose={[Function]}
+        supportedOrientations={
+          Array [
+            "portrait",
+            "portrait-upside-down",
+            "landscape",
+            "landscape-left",
+            "landscape-right",
+          ]
+        }
+        transparent={true}
+        visible={false}
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#00000077",
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <View
+            accessible={true}
+            isTVSelectable={true}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "transparent",
+                "flex": 1,
+                "opacity": 1,
+              }
+            }
+          />
+          <View
+            onMoveShouldSetResponder={[Function]}
+            onMoveShouldSetResponderCapture={[Function]}
+            onResponderEnd={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderReject={[Function]}
+            onResponderRelease={[Function]}
+            onResponderStart={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            onStartShouldSetResponderCapture={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#fff",
+                "height": 0,
+                "overflow": "hidden",
+                "transform": Array [
+                  Object {
+                    "translateX": 0,
+                  },
+                  Object {
+                    "translateY": 0,
+                  },
+                ],
+                "width": "100%",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderBottomWidth": 1,
+                  "borderColor": "#ccc",
+                  "flexDirection": "row",
+                  "height": 45,
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                accessible={true}
+                isTVSelectable={true}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": "100%",
+                    "justifyContent": "center",
+                    "opacity": 1,
+                    "paddingHorizontal": 20,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "color": "#006BFF",
+                        "fontSize": 20,
+                        "fontWeight": "500",
+                      },
+                      Object {
+                        "color": "#666",
+                        "fontWeight": "400",
+                      },
+                    ]
+                  }
+                >
+                  Abbrechen
+                </Text>
+              </View>
+              <View
+                accessible={true}
+                isTVSelectable={true}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "height": "100%",
+                    "justifyContent": "center",
+                    "opacity": 1,
+                    "paddingHorizontal": 20,
+                  }
+                }
+              >
+                <Text
+                  style={
+                    Object {
+                      "color": "#006BFF",
+                      "fontSize": 20,
+                      "fontWeight": "500",
+                    }
+                  }
+                >
+                  Fertig
+                </Text>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "flex": 1,
+                  }
+                }
+              >
+                <RCTPicker
+                  items={
+                    Array [
+                      Object {
+                        "label": "0",
+                        "textColor": undefined,
+                        "value": "0",
+                      },
+                      Object {
+                        "label": "1",
+                        "textColor": undefined,
+                        "value": "1",
+                      },
+                      Object {
+                        "label": "2",
+                        "textColor": undefined,
+                        "value": "2",
+                      },
+                      Object {
+                        "label": "3",
+                        "textColor": undefined,
+                        "value": "3",
+                      },
+                      Object {
+                        "label": "4",
+                        "textColor": undefined,
+                        "value": "4",
+                      },
+                      Object {
+                        "label": "5",
+                        "textColor": undefined,
+                        "value": "5",
+                      },
+                      Object {
+                        "label": "6",
+                        "textColor": undefined,
+                        "value": "6",
+                      },
+                      Object {
+                        "label": "7",
+                        "textColor": undefined,
+                        "value": "7",
+                      },
+                      Object {
+                        "label": "8",
+                        "textColor": undefined,
+                        "value": "8",
+                      },
+                      Object {
+                        "label": "9",
+                        "textColor": undefined,
+                        "value": "9",
+                      },
+                      Object {
+                        "label": "10",
+                        "textColor": undefined,
+                        "value": "10",
+                      },
+                      Object {
+                        "label": "11",
+                        "textColor": undefined,
+                        "value": "11",
+                      },
+                      Object {
+                        "label": "12",
+                        "textColor": undefined,
+                        "value": "12",
+                      },
+                      Object {
+                        "label": "13",
+                        "textColor": undefined,
+                        "value": "13",
+                      },
+                      Object {
+                        "label": "14",
+                        "textColor": undefined,
+                        "value": "14",
+                      },
+                      Object {
+                        "label": "15",
+                        "textColor": undefined,
+                        "value": "15",
+                      },
+                      Object {
+                        "label": "16",
+                        "textColor": undefined,
+                        "value": "16",
+                      },
+                      Object {
+                        "label": "17",
+                        "textColor": undefined,
+                        "value": "17",
+                      },
+                      Object {
+                        "label": "18",
+                        "textColor": undefined,
+                        "value": "18",
+                      },
+                      Object {
+                        "label": "19",
+                        "textColor": undefined,
+                        "value": "19",
+                      },
+                      Object {
+                        "label": "20",
+                        "textColor": undefined,
+                        "value": "20",
+                      },
+                      Object {
+                        "label": "21",
+                        "textColor": undefined,
+                        "value": "21",
+                      },
+                      Object {
+                        "label": "22",
+                        "textColor": undefined,
+                        "value": "22",
+                      },
+                      Object {
+                        "label": "23",
+                        "textColor": undefined,
+                        "value": "23",
+                      },
+                    ]
+                  }
+                  onChange={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  selectedIndex={1}
+                  style={
+                    Array [
+                      Object {
+                        "height": 216,
+                      },
+                      Object {},
+                    ]
+                  }
+                />
+              </View>
+              <Text
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "fontSize": 16,
+                  }
+                }
+              >
+                :
+              </Text>
+              <View
+                style={
+                  Object {
+                    "flex": 1,
+                  }
+                }
+              >
+                <RCTPicker
+                  items={
+                    Array [
+                      Object {
+                        "label": "00",
+                        "textColor": undefined,
+                        "value": "00",
+                      },
+                      Object {
+                        "label": "05",
+                        "textColor": undefined,
+                        "value": "05",
+                      },
+                      Object {
+                        "label": "10",
+                        "textColor": undefined,
+                        "value": "10",
+                      },
+                      Object {
+                        "label": "15",
+                        "textColor": undefined,
+                        "value": "15",
+                      },
+                      Object {
+                        "label": "20",
+                        "textColor": undefined,
+                        "value": "20",
+                      },
+                      Object {
+                        "label": "25",
+                        "textColor": undefined,
+                        "value": "25",
+                      },
+                      Object {
+                        "label": "30",
+                        "textColor": undefined,
+                        "value": "30",
+                      },
+                      Object {
+                        "label": "35",
+                        "textColor": undefined,
+                        "value": "35",
+                      },
+                      Object {
+                        "label": "40",
+                        "textColor": undefined,
+                        "value": "40",
+                      },
+                      Object {
+                        "label": "45",
+                        "textColor": undefined,
+                        "value": "45",
+                      },
+                      Object {
+                        "label": "50",
+                        "textColor": undefined,
+                        "value": "50",
+                      },
+                      Object {
+                        "label": "55",
+                        "textColor": undefined,
+                        "value": "55",
+                      },
+                    ]
+                  }
+                  onChange={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  selectedIndex={0}
+                  style={
+                    Array [
+                      Object {
+                        "height": 216,
+                      },
+                      Object {},
+                    ]
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+      </Modal>
+      <View
+        style={
+          Object {
+            "marginTop": 20,
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityStates={Array []}
+          accessible={true}
+          isTVSelectable={true}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "padding": 8,
+                    "textAlign": "center",
+                  },
+                ]
+              }
+            >
+              Parkplatz merken
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</Modal>
+`;

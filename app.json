@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "BArkplatzApp",
+    "slug": "barkplatz",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/barker.png",
+    "splash": {
+      "image": "./assets/images/barker.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4472c4"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "notification": {
+      "iosDisplayInForeground": true
+    },
+    "ios": {
+      "bundleIdentifier": "de.uni-bamberg.mobi.barkplatz",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Wir brauchen die Ortungsdaten um dich zu deinem parkplatz zu leiten und verkaufen die daten an die nsa",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Wir brauchen die Ortungsdaten um dich zu deinem parkplatz zu leiten und verkaufen die daten an die nsa"
+      }
+    },
+    "android": {
+      "package": "de.uni_bamberg.mobi.barkplatz",
+      "versionCode": 1
+    },
+    "description": "Superdolle App für Parkplätze in Bamberg oder so",
+    "packagerOpts": {
+      "sourceExts": [
+        "js",
+        "jsx",
+        "ts",
+        "tsx"
+      ]
+    }
+  }
+}

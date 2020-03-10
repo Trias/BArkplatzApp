@@ -1,0 +1,728 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "paddingTop": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Wie wähle ich einen Parkplatz aus?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Wie funktioniert der Parkzeitrechner?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Kann die App einen für mich passenden Parkplatz automatisch auswählen?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Kann ich meinen Parkschein in der App lösen?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Wie kann ich die Ansicht an meine besonderen Bedürfnisse (z.B.: Behinderung, E-Auto) anpassen?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Was bedeuten die Punkte auf den Parkplatzicons?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Warum der Name BArkplatz und was macht der Hund im Logo?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Gibt es ein Easter Egg?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Wie merke ich mir einen Parkplatz?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Wie reserviere ich einen Parkplatz?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Was bedeuten die Farben in der Parkplatzansicht?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Was sind die grünen Kreise oder die schwarzen Flächen auf der Parkplatzansicht?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Was zeigt die Balkengrafik?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#D3D3D3",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "minHeight": 56,
+          "opacity": 1,
+          "paddingLeft": 25,
+          "paddingRight": 18,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "black",
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "maxWidth": 270,
+            },
+            undefined,
+          ]
+        }
+      >
+        Warum braucht die App so lange zum laden?
+      </Text>
+      <Text />
+    </View>
+    <View
+      style={
+        Object {
+          "color": "white",
+          "height": 1,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+</View>
+`;

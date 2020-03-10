@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RNSVGRect
+  fill={
+    Array [
+      0,
+      4278190080,
+    ]
+  }
+  fillOpacity={0.3}
+  fillRule={1}
+  height={0}
+  matrix={
+    Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ]
+  }
+  opacity={1}
+  originX={0}
+  originY={0}
+  propList={
+    Array [
+      "fillOpacity",
+    ]
+  }
+  rotation={0}
+  rx={0}
+  ry={0}
+  scaleX={1}
+  scaleY={1}
+  skewX={0}
+  skewY={0}
+  stroke={null}
+  strokeDasharray={null}
+  strokeDashoffset={null}
+  strokeLinecap={0}
+  strokeLinejoin={0}
+  strokeMiterlimit={4}
+  strokeOpacity={1}
+  strokeWidth={1}
+  vectorEffect={0}
+  width={0}
+  x={0}
+  y={0}
+/>
+`;

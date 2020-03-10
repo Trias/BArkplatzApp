@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  horizontal={true}
+  showsHorizontalScrollIndicator={false}
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "height": 60,
+      "left": 0,
+      "lineHeight": 60,
+      "position": "absolute",
+      "right": 0,
+      "zIndex": 100,
+    }
+  }
+>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "borderBottomColor": "transparent",
+          "borderBottomWidth": 3,
+          "marginHorizontal": 5,
+          "opacity": 1,
+          "paddingHorizontal": 5,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "marginVertical": 10,
+            },
+            null,
+          ]
+        }
+      >
+        Alle
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "borderBottomColor": "transparent",
+          "borderBottomWidth": 3,
+          "marginHorizontal": 5,
+          "opacity": 1,
+          "paddingHorizontal": 5,
+          "paddingVertical": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 14,
+              "fontWeight": "bold",
+              "marginVertical": 10,
+            },
+            null,
+          ]
+        }
+      >
+        Elektro
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;

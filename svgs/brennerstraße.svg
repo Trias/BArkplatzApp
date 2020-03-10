@@ -1,0 +1,766 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000px" height="578px" viewBox="-2.834890529661614 -194.4771205254115 1600.3979480579278 925.4251926005786">
+  <defs>
+    <pattern id="wall" x="0" y="0" width="256" height="256" patternUnits="userSpaceOnUse">
+      <image href="https://api.parking-pilot.com/assets/svg/wall.png" width="256.0" height="256.0" x="0.0" y="0.0"/>
+    </pattern>
+  </defs>
+  <g class="parking-lot" azimuth="305.9866071428564" latitudeOrigin="49.9022971227527" latitudeEnd="49.90113355396578" longitudeOrigin="10.899680361263167" longitudeEnd="10.900085956390571">
+    <g level="0" class="parking-level" visibility="visible">
+      <g>
+        <rect fill="url(#wall)" class="wall" width="236.8915419124686" height="202.9150657815966" x="193.51920086902143" y="189.16405717244356" transform="rotate(0.0,311.9649718252557,290.62159006324185)"/>
+      </g>
+      <g>
+        <rect fill="url(#wall)" class="wall" width="287.8562561087766" height="202.9150657815966" x="386.1278674848427" y="-189.0823105225332" transform="rotate(0.0,530.0559955392309,-87.62477763173489)"/>
+      </g>
+      <g>
+        <rect fill="url(#wall)" class="wall" width="251.04840696699867" height="202.9150657815966" x="670.4481294156335" y="-189.4771205254115" transform="rotate(0.0,795.9723328991329,-88.01958763461319)"/>
+      </g>
+      <g>
+        <rect fill="url(#wall)" class="wall" width="251.04840696699867" height="202.9150657815966" x="920.0831985091617" y="-188.6501255666213" transform="rotate(0.0,1045.607401992661,-87.19259267582301)"/>
+      </g>
+      <g>
+        <rect fill="url(#wall)" class="wall" width="142.8755977788368" height="139.3037078343659" x="1296.4678895137358" y="353.6171045026213" transform="rotate(0.0,1367.9056884031543,423.2689584198043)"/>
+      </g>
+      <g>
+        <rect fill="url(#wall)" class="wall" width="47.625199259612266" height="64.2940190004766" x="1435.869618390617" y="392.88611143790916" transform="rotate(0.0,1459.682218020423,425.0331209381475)"/>
+      </g>
+      <g>
+        <rect fill="url(#wall)" class="wall" width="50.00645922259292" height="90.48787859326337" x="63.10338901898629" y="200.02583689037164" transform="rotate(0.0,88.10661863028275,245.26977618700332)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="58.51504222539056" height="64.17778824720254" x="94.01528999633523" y="376.82131551643215" transform="rotate(305.9866071428564,123.2728111090305,408.91020964003343)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="41.52680415995459" height="47.18955018176658" x="149.26238785088665" y="382.1517749009435" transform="rotate(305.9866071428564,170.02578993086394,405.7465499918268)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="41.52680415995459" height="41.52680415995459" x="291.5117719501191" y="398.66424839318626" transform="rotate(305.9866071428564,312.2751740300964,419.42765047316357)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="52.852296203578575" height="50.02092319267257" x="328.6576822533627" y="398.275758934498" transform="rotate(305.9866071428564,355.083830355152,423.28622053083427)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="47.18955018176658" height="41.52680415995459" x="417.7679975576159" y="396.010057306974" transform="rotate(305.9866071428564,441.3627726484992,416.7734593869513)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="67.00916125810855" height="67.00916125810855" x="463.46405591324253" y="372.57307170344416" transform="rotate(305.9866071428564,496.9686365422968,406.0776523324984)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="57.74652669385895" height="56.452184746016194" x="463.49296406393233" y="269.1634230070949" transform="rotate(305.9866071428564,492.3662274108618,297.389515380103)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="69.84053426901454" height="58.51504222539056" x="464.13996522137745" y="195.6058877086682" transform="rotate(305.9866071428564,499.06023235588475,224.8634088213635)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267258" height="50.02092319267257" x="545.8304616259362" y="155.6617574731588" transform="rotate(305.9866071428564,570.8409232222725,180.67221906949507)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="67.00916125810856" height="67.00916125810855" x="661.4854902222744" y="95.20258911129439" transform="rotate(305.9866071428564,694.9900708513287,128.70716974034866)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267258" height="50.02092319267257" x="606.4072111850313" y="150.30531515283622" transform="rotate(305.9866071428564,631.4176727813676,175.3157767491725)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267258" height="50.02092319267257" x="658.0441073382101" y="154.87192426127723" transform="rotate(305.9866071428564,683.0545689345464,179.8823858576135)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="81.16602631263852" height="92.49151835626253" x="782.0537830703241" y="90.91779167843923" transform="rotate(305.9866071428564,822.6367962266434,137.1635508565705)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267258" height="50.02092319267257" x="546.6311558640024" y="102.0003020019016" transform="rotate(305.9866071428564,571.6416174603387,127.01076359823789)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="38.695431149048616" height="33.03268512723662" x="936.2074432626811" y="115.60918562532429" transform="rotate(305.9866071428564,955.5551588372053,132.1255281889426)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="38.695431149048616" height="33.03268512723662" x="1069.1760249346057" y="116.84272988416862" transform="rotate(305.9866071428564,1088.52374050913,133.35907244778693)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267257" height="61.34641523629657" x="102.0303263671309" y="631.6750539418595" transform="rotate(305.9866071428564,127.04078796346718,662.3482615600077)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="72.67190727992055" height="75.50328029082654" x="238.6045688803544" y="636.6123187606498" transform="rotate(305.9866071428564,274.9405225203147,674.3639589060631)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267257" height="72.67190727992056" x="340.89029320974254" y="630.1790660853387" transform="rotate(305.9866071428564,365.9007548060788,666.515019725299)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267257" height="58.515042225390566" x="417.09399082510726" y="638.9270254019856" transform="rotate(305.9866071428564,442.1044524214435,668.1845465146808)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267257" height="52.85229620357858" x="517.7548790988778" y="645.5598202161397" transform="rotate(305.9866071428564,542.7653406952141,671.985968317929)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="61.346415236296565" height="55.683669214484574" x="592.3507099410175" y="641.7098052869006" transform="rotate(305.9866071428564,623.0239175591657,669.5516398941429)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267257" height="52.85229620357858" x="690.8183931526758" y="639.9110466519738" transform="rotate(306.9241071428564,715.8288547490121,666.3371947537631)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267257" height="50.02092319267257" x="246.13115361273407" y="131.46025611788113" transform="rotate(305.9866071428564,271.1416152090703,156.47071771421741)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267257" height="50.02092319267257" x="270.22361367460536" y="90.92762621421818" transform="rotate(305.9866071428564,295.2340752709416,115.93808781055446)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="33.03268512723663" height="33.03268512723662" x="806.1749930561015" y="170.36027576987513" transform="rotate(305.9866071428564,822.6913356197198,186.87661833349344)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="30.201312116330627" height="30.20131211633062" x="856.8183405449787" y="159.48079761268983" transform="rotate(305.9866071428564,871.918996603144,174.58145367085513)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="27.369939105424635" height="24.53856609451864" x="918.0905849481168" y="166.20228834318118" transform="rotate(305.9866071428564,931.7755545008291,178.4715713904405)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="27.369939105424635" height="33.03268512723662" x="1083.0572588908694" y="168.51622476429463" transform="rotate(305.9866071428564,1096.7422284435818,185.03256732791294)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="27.369939105424635" height="27.369939105424628" x="1120.1201938089873" y="168.21984832193144" transform="rotate(305.9866071428564,1133.8051633616997,181.90481787464375)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="27.369939105424635" height="27.369939105424628" x="1165.3744691213258" y="171.63924357382191" transform="rotate(305.9866071428564,1179.0594386740381,185.32421312653423)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="27.369939105424635" height="30.20131211633062" x="772.2236982821655" y="637.0978537510352" transform="rotate(305.9866071428564,785.9086678348779,652.1985098092006)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="27.369939105424635" height="38.69543114904861" x="947.5370246986196" y="650.3554641632409" transform="rotate(305.9866071428564,961.2219942513319,669.7031797377651)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="38.695431149048616" height="38.69543114904861" x="981.9540929912542" y="649.879061420218" transform="rotate(305.9866071428564,1001.3018085657785,669.2267769947423)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="38.695431149048616" height="38.69543114904861" x="1052.9189502038744" y="652.5319560502538" transform="rotate(305.9866071428564,1072.2666657783986,671.8796716247781)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="50.02092319267258" height="50.02092319267257" x="696.5185391718297" y="395.28915385478206" transform="rotate(305.9866071428564,721.529000768166,420.29961545111837)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="41.526804159954594" height="47.18955018176658" x="894.1631160992206" y="396.47978383627225" transform="rotate(305.9866071428564,914.9265181791978,420.0745589271555)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="47.18955018176659" height="44.358177170860586" x="1067.995093396806" y="391.7172639103111" transform="rotate(305.9866071428564,1091.5898684876893,413.8963524957414)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="24.538566094518647" height="21.707193083612648" x="1289.0475223776273" y="282.1793056132028" transform="rotate(305.9866071428564,1301.3168054248865,293.03290215500914)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="27.369939105424635" height="27.369939105424628" x="1288.993066242897" y="233.3634763721003" transform="rotate(305.9866071428564,1302.6780357956093,247.04844592481263)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="38.695431149048616" height="41.52680415995459" x="1349.747868979741" y="127.47364660808593" transform="rotate(305.9866071428564,1369.0955845542653,148.23704868806323)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="58.51504222539056" height="64.17778824720254" x="97.6316584822052" y="145.25685774181753" transform="rotate(305.9866071428564,126.88917959490047,177.3457518654188)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="41.52680415995459" height="47.18955018176658" x="152.87875633675668" y="150.5873171263289" transform="rotate(305.9866071428564,173.64215841673396,174.1820922172122)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="41.52680415995459" height="47.18955018176658" x="57.150239111534674" y="153.5912676122497" transform="rotate(292.8616071428564,77.91364119151197,177.186042703133)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="57.74652669385895" height="56.452184746016194" x="13.096929796393363" y="254.79481603892572" transform="rotate(305.9866071428564,41.97019314332284,283.0209084119338)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="57.74652669385895" height="56.452184746016194" x="14.287559777883688" y="316.70757507642156" transform="rotate(305.9866071428564,43.16082312481316,344.93366744942966)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="38.695431149048616" height="33.03268512723662" x="411.1323753004465" y="106.27911742460518" transform="rotate(305.9866071428564,430.4800908749708,122.79545998822348)"/>
+      </g>
+      <g>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/hedge.png" class="hedge" width="39.41987766159082" height="37.16731322378553" x="1553.1431798666754" y="569.8988027647122" transform="rotate(0.0,1572.8531186974708,588.482459376605)"/>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="26.32528091831729" y="444.27635642926805" transform="rotate(0.0,42.8416234819356,473.5338775419633)" xml-id="1" parking-space-id="532"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="26.32528091831729" y="444.27635642926805" transform="rotate(0.0,42.8416234819356,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="42.8416234819356" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">1</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="58.17822729100974" y="444.27635642926805" transform="rotate(0.0,74.69456985462804,473.5338775419633)" xml-id="2" parking-space-id="533"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="58.17822729100974" y="444.27635642926805" transform="rotate(0.0,74.69456985462804,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="74.69456985462804" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">2</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="90.03117366370212" y="444.27635642926805" transform="rotate(0.0,106.54751622732043,473.5338775419633)" xml-id="3" parking-space-id="534"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="90.03117366370212" y="444.27635642926805" transform="rotate(0.0,106.54751622732043,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="106.54751622732043" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">3</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="121.88412003639459" y="444.27635642926805" transform="rotate(0.0,138.4004626000129,473.5338775419633)" xml-id="4" parking-space-id="535"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="121.88412003639459" y="444.27635642926805" transform="rotate(0.0,138.4004626000129,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="138.4004626000129" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">4</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="153.73706640908708" y="444.27635642926805" transform="rotate(0.0,170.2534089727054,473.5338775419633)" xml-id="5" parking-space-id="536"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="153.73706640908708" y="444.27635642926805" transform="rotate(0.0,170.2534089727054,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="170.2534089727054" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">5</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="185.5900127817795" y="444.27635642926805" transform="rotate(0.0,202.10635534539782,473.5338775419633)" xml-id="6" parking-space-id="537"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="185.5900127817795" y="444.27635642926805" transform="rotate(0.0,202.10635534539782,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="202.10635534539782" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">6</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="217.44295915447196" y="444.27635642926805" transform="rotate(0.0,233.95930171809027,473.5338775419633)" xml-id="7" parking-space-id="538"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="217.44295915447196" y="444.27635642926805" transform="rotate(0.0,233.95930171809027,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="233.95930171809027" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">7</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="249.29590552716442" y="444.27635642926805" transform="rotate(0.0,265.81224809078276,473.5338775419633)" xml-id="8" parking-space-id="539"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="249.29590552716442" y="444.27635642926805" transform="rotate(0.0,265.81224809078276,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="265.81224809078276" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">8</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="281.14885189985694" y="444.27635642926805" transform="rotate(0.0,297.66519446347525,473.5338775419633)" xml-id="9" parking-space-id="540"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="281.14885189985694" y="444.27635642926805" transform="rotate(0.0,297.66519446347525,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="297.66519446347525" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">9</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="313.00179827254925" y="444.27635642926805" transform="rotate(0.0,329.51814083616756,473.5338775419633)" xml-id="10" parking-space-id="541"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="313.00179827254925" y="444.27635642926805" transform="rotate(0.0,329.51814083616756,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="329.51814083616756" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">10</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="344.85474464524174" y="444.27635642926805" transform="rotate(0.0,361.37108720886005,473.5338775419633)" xml-id="11" parking-space-id="542"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="344.85474464524174" y="444.27635642926805" transform="rotate(0.0,361.37108720886005,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="361.37108720886005" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">11</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="376.7076910179341" y="444.27635642926805" transform="rotate(0.0,393.2240335815524,473.5338775419633)" xml-id="12" parking-space-id="543"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="376.7076910179341" y="444.27635642926805" transform="rotate(0.0,393.2240335815524,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="393.2240335815524" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">12</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="408.56063739062665" y="444.27635642926805" transform="rotate(0.0,425.07697995424496,473.5338775419633)" xml-id="13" parking-space-id="544"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="408.56063739062665" y="444.27635642926805" transform="rotate(0.0,425.07697995424496,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="425.07697995424496" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">13</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="440.4135837633192" y="444.27635642926805" transform="rotate(0.0,456.9299263269375,473.5338775419633)" xml-id="14" parking-space-id="545"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="440.4135837633192" y="444.27635642926805" transform="rotate(0.0,456.9299263269375,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="456.9299263269375" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">14</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="472.2665301360115" y="444.27635642926805" transform="rotate(0.0,488.7828726996298,473.5338775419633)" xml-id="15" parking-space-id="546"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="472.2665301360115" y="444.27635642926805" transform="rotate(0.0,488.7828726996298,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="488.7828726996298" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">15</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="504.119476508704" y="444.27635642926805" transform="rotate(0.0,520.6358190723223,473.5338775419633)" xml-id="16" parking-space-id="547"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="504.119476508704" y="444.27635642926805" transform="rotate(0.0,520.6358190723223,473.5338775419633)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="520.6358190723223" y="473.5338775419633" class="" font-family="Verdana" font-size="14" fill="black" id="">16</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="62.50135549548466" y="574.2855198338606" transform="rotate(180.0,79.01769805910297,603.5430409465558)" xml-id="17" parking-space-id="548"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="62.50135549548466" y="574.2855198338606" transform="rotate(180.0,79.01769805910297,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="79.01769805910297" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">17</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="94.35430186817707" y="574.2855198338606" transform="rotate(180.0,110.87064443179538,603.5430409465558)" xml-id="18" parking-space-id="549"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="94.35430186817707" y="574.2855198338606" transform="rotate(180.0,110.87064443179538,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="110.87064443179538" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">18</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="126.20724824086957" y="574.2855198338606" transform="rotate(180.0,142.72359080448788,603.5430409465558)" xml-id="19" parking-space-id="550"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="126.20724824086957" y="574.2855198338606" transform="rotate(180.0,142.72359080448788,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="142.72359080448788" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">19</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="158.06019461356203" y="574.2855198338606" transform="rotate(180.0,174.57653717718034,603.5430409465558)" xml-id="20" parking-space-id="551"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="158.06019461356203" y="574.2855198338606" transform="rotate(180.0,174.57653717718034,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="174.57653717718034" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">20</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="189.9131409862544" y="574.2855198338606" transform="rotate(180.0,206.4294835498727,603.5430409465558)" xml-id="21" parking-space-id="552"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="189.9131409862544" y="574.2855198338606" transform="rotate(180.0,206.4294835498727,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="206.4294835498727" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">21</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="221.7660873589469" y="574.2855198338606" transform="rotate(180.0,238.2824299225652,603.5430409465558)" xml-id="22" parking-space-id="553"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="221.7660873589469" y="574.2855198338606" transform="rotate(180.0,238.2824299225652,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="238.2824299225652" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">22</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="253.6190337316393" y="574.2855198338606" transform="rotate(180.0,270.13537629525763,603.5430409465558)" xml-id="23" parking-space-id="554"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="253.6190337316393" y="574.2855198338606" transform="rotate(180.0,270.13537629525763,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="270.13537629525763" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">23</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="285.47198010433175" y="574.2855198338606" transform="rotate(180.0,301.98832266795006,603.5430409465558)" xml-id="24" parking-space-id="555"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="285.47198010433175" y="574.2855198338606" transform="rotate(180.0,301.98832266795006,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="301.98832266795006" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">24</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="317.3249264770243" y="574.2855198338606" transform="rotate(180.0,333.8412690406426,603.5430409465558)" xml-id="25" parking-space-id="556"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="317.3249264770243" y="574.2855198338606" transform="rotate(180.0,333.8412690406426,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="333.8412690406426" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">25</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="349.17787284971666" y="574.2855198338606" transform="rotate(180.0,365.694215413335,603.5430409465558)" xml-id="26" parking-space-id="557"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="349.17787284971666" y="574.2855198338606" transform="rotate(180.0,365.694215413335,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="365.694215413335" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">26</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="381.03081922240875" y="574.2855198338606" transform="rotate(180.0,397.54716178602706,603.5430409465558)" xml-id="27" parking-space-id="558"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="381.03081922240875" y="574.2855198338606" transform="rotate(180.0,397.54716178602706,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="397.54716178602706" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">27</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="412.8837655951012" y="574.2855198338606" transform="rotate(180.0,429.4001081587195,603.5430409465558)" xml-id="28" parking-space-id="559"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="412.8837655951012" y="574.2855198338606" transform="rotate(180.0,429.4001081587195,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="429.4001081587195" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">28</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="444.73671196779355" y="574.2855198338606" transform="rotate(180.0,461.25305453141186,603.5430409465558)" xml-id="29" parking-space-id="560"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="444.73671196779355" y="574.2855198338606" transform="rotate(180.0,461.25305453141186,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="461.25305453141186" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">29</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="476.58965834048576" y="574.2855198338606" transform="rotate(180.0,493.10600090410406,603.5430409465558)" xml-id="30" parking-space-id="561"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="476.58965834048576" y="574.2855198338606" transform="rotate(180.0,493.10600090410406,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="493.10600090410406" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">30</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="508.4426047131781" y="574.2855198338606" transform="rotate(180.0,524.9589472767964,603.5430409465558)" xml-id="31" parking-space-id="562"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="508.4426047131781" y="574.2855198338606" transform="rotate(180.0,524.9589472767964,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="524.9589472767964" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">31</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="540.2955510858706" y="574.2855198338606" transform="rotate(180.0,556.8118936494889,603.5430409465558)" xml-id="32" parking-space-id="563"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="540.2955510858706" y="574.2855198338606" transform="rotate(180.0,556.8118936494889,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="556.8118936494889" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">32</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="572.1484974585627" y="574.2855198338606" transform="rotate(180.0,588.664840022181,603.5430409465558)" xml-id="33" parking-space-id="564"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="572.1484974585627" y="574.2855198338606" transform="rotate(180.0,588.664840022181,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="588.664840022181" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">33</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="604.0014438312553" y="574.2855198338606" transform="rotate(180.0,620.5177863948736,603.5430409465558)" xml-id="34" parking-space-id="565"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="604.0014438312553" y="574.2855198338606" transform="rotate(180.0,620.5177863948736,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="620.5177863948736" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">34</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="635.8543902039476" y="574.2855198338606" transform="rotate(180.0,652.3707327675659,603.5430409465558)" xml-id="35" parking-space-id="566"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="635.8543902039476" y="574.2855198338606" transform="rotate(180.0,652.3707327675659,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="652.3707327675659" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">35</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="667.7073365766402" y="574.2855198338606" transform="rotate(180.0,684.2236791402585,603.5430409465558)" xml-id="36" parking-space-id="567"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="667.7073365766402" y="574.2855198338606" transform="rotate(180.0,684.2236791402585,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="684.2236791402585" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">36</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="699.5602829493325" y="574.2855198338606" transform="rotate(180.0,716.0766255129508,603.5430409465558)" xml-id="37" parking-space-id="568"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="699.5602829493325" y="574.2855198338606" transform="rotate(180.0,716.0766255129508,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="716.0766255129508" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">37</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="731.413229322025" y="574.2855198338606" transform="rotate(180.0,747.9295718856433,603.5430409465558)" xml-id="38" parking-space-id="569"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="731.413229322025" y="574.2855198338606" transform="rotate(180.0,747.9295718856433,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="747.9295718856433" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">38</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="763.2661756947175" y="574.2855198338606" transform="rotate(180.0,779.7825182583358,603.5430409465558)" xml-id="39" parking-space-id="570"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="763.2661756947175" y="574.2855198338606" transform="rotate(180.0,779.7825182583358,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="779.7825182583358" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">39</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="795.1191220674099" y="574.2855198338606" transform="rotate(180.0,811.6354646310282,603.5430409465558)" xml-id="40" parking-space-id="571"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="795.1191220674099" y="574.2855198338606" transform="rotate(180.0,811.6354646310282,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="811.6354646310282" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">40</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="826.9720684401021" y="574.2855198338606" transform="rotate(180.0,843.4884110037204,603.5430409465558)" xml-id="41" parking-space-id="572"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="826.9720684401021" y="574.2855198338606" transform="rotate(180.0,843.4884110037204,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="843.4884110037204" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">41</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="858.8250148127948" y="574.2855198338606" transform="rotate(180.0,875.3413573764132,603.5430409465558)" xml-id="42" parking-space-id="573"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="858.8250148127948" y="574.2855198338606" transform="rotate(180.0,875.3413573764132,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="875.3413573764132" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">42</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="890.6779611854873" y="574.2855198338606" transform="rotate(180.0,907.1943037491056,603.5430409465558)" xml-id="43" parking-space-id="574"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="890.6779611854873" y="574.2855198338606" transform="rotate(180.0,907.1943037491056,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="907.1943037491056" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">43</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="922.5309075581797" y="574.2855198338606" transform="rotate(180.0,939.047250121798,603.5430409465558)" xml-id="44" parking-space-id="575"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="922.5309075581797" y="574.2855198338606" transform="rotate(180.0,939.047250121798,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="939.047250121798" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">44</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="954.383853930872" y="574.2855198338606" transform="rotate(180.0,970.9001964944903,603.5430409465558)" xml-id="45" parking-space-id="576"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="954.383853930872" y="574.2855198338606" transform="rotate(180.0,970.9001964944903,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="970.9001964944903" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">45</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="986.2368003035641" y="574.2855198338606" transform="rotate(180.0,1002.7531428671824,603.5430409465558)" xml-id="46" parking-space-id="577"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="986.2368003035641" y="574.2855198338606" transform="rotate(180.0,1002.7531428671824,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1002.7531428671824" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">46</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1018.0897466762565" y="574.2855198338606" transform="rotate(180.0,1034.6060892398748,603.5430409465558)" xml-id="47" parking-space-id="578"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1018.0897466762565" y="574.2855198338606" transform="rotate(180.0,1034.6060892398748,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1034.6060892398748" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">47</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1049.9426930489487" y="574.2855198338606" transform="rotate(180.0,1066.459035612567,603.5430409465558)" xml-id="48" parking-space-id="579"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1049.9426930489487" y="574.2855198338606" transform="rotate(180.0,1066.459035612567,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1066.459035612567" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">48</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1081.7956394216415" y="574.2855198338606" transform="rotate(180.0,1098.3119819852598,603.5430409465558)" xml-id="49" parking-space-id="580"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1081.7956394216415" y="574.2855198338606" transform="rotate(180.0,1098.3119819852598,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1098.3119819852598" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">49</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1113.6485857943335" y="574.2855198338606" transform="rotate(180.0,1130.1649283579518,603.5430409465558)" xml-id="50" parking-space-id="581"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1113.6485857943335" y="574.2855198338606" transform="rotate(180.0,1130.1649283579518,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1130.1649283579518" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">50</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1145.5015321670257" y="574.2855198338606" transform="rotate(180.0,1162.017874730644,603.5430409465558)" xml-id="51" parking-space-id="582"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1145.5015321670257" y="574.2855198338606" transform="rotate(180.0,1162.017874730644,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1162.017874730644" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">51</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1177.3544785397185" y="574.2855198338606" transform="rotate(180.0,1193.8708211033368,603.5430409465558)" xml-id="52" parking-space-id="583"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1177.3544785397185" y="574.2855198338606" transform="rotate(180.0,1193.8708211033368,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1193.8708211033368" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">52</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1209.207424912411" y="574.2855198338606" transform="rotate(180.0,1225.7237674760293,603.5430409465558)" xml-id="53" parking-space-id="584"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1209.207424912411" y="574.2855198338606" transform="rotate(180.0,1225.7237674760293,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1225.7237674760293" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">53</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1241.0603712851034" y="574.2855198338606" transform="rotate(180.0,1257.5767138487217,603.5430409465558)" xml-id="54" parking-space-id="585"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1241.0603712851034" y="574.2855198338606" transform="rotate(180.0,1257.5767138487217,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1257.5767138487217" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">54</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="605.2367858967137" y="444.5681557633634" transform="rotate(0.0,621.753128460332,473.82567687605865)" xml-id="55" parking-space-id="586"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="605.2367858967137" y="444.5681557633634" transform="rotate(0.0,621.753128460332,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="621.753128460332" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">55</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="637.0897322694062" y="444.5681557633634" transform="rotate(0.0,653.6060748330245,473.82567687605865)" xml-id="56" parking-space-id="587"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="637.0897322694062" y="444.5681557633634" transform="rotate(0.0,653.6060748330245,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="653.6060748330245" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">56</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="668.9426786420986" y="444.5681557633634" transform="rotate(0.0,685.4590212057169,473.82567687605865)" xml-id="57" parking-space-id="588"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="668.9426786420986" y="444.5681557633634" transform="rotate(0.0,685.4590212057169,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="685.4590212057169" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">57</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="700.795625014791" y="444.5681557633634" transform="rotate(0.0,717.3119675784093,473.82567687605865)" xml-id="58" parking-space-id="589"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="700.795625014791" y="444.5681557633634" transform="rotate(0.0,717.3119675784093,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="717.3119675784093" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">58</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="732.6485713874835" y="444.5681557633634" transform="rotate(0.0,749.1649139511018,473.82567687605865)" xml-id="59" parking-space-id="590"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="732.6485713874835" y="444.5681557633634" transform="rotate(0.0,749.1649139511018,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="749.1649139511018" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">59</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="764.501517760176" y="444.5681557633634" transform="rotate(0.0,781.0178603237943,473.82567687605865)" xml-id="60" parking-space-id="591"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="764.501517760176" y="444.5681557633634" transform="rotate(0.0,781.0178603237943,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="781.0178603237943" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">60</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="796.3544641328684" y="444.5681557633634" transform="rotate(0.0,812.8708066964867,473.82567687605865)" xml-id="61" parking-space-id="592"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="796.3544641328684" y="444.5681557633634" transform="rotate(0.0,812.8708066964867,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="812.8708066964867" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">61</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="828.2074105055608" y="444.5681557633634" transform="rotate(0.0,844.7237530691791,473.82567687605865)" xml-id="62" parking-space-id="593"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="828.2074105055608" y="444.5681557633634" transform="rotate(0.0,844.7237530691791,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="844.7237530691791" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">62</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="860.0603568782531" y="444.5681557633634" transform="rotate(0.0,876.5766994418714,473.82567687605865)" xml-id="63" parking-space-id="594"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="860.0603568782531" y="444.5681557633634" transform="rotate(0.0,876.5766994418714,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="876.5766994418714" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">63</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="891.9133032509457" y="444.5681557633634" transform="rotate(0.0,908.429645814564,473.82567687605865)" xml-id="64" parking-space-id="595"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="891.9133032509457" y="444.5681557633634" transform="rotate(0.0,908.429645814564,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="908.429645814564" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">64</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="923.7662496236383" y="444.5681557633634" transform="rotate(0.0,940.2825921872566,473.82567687605865)" xml-id="65" parking-space-id="596"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="923.7662496236383" y="444.5681557633634" transform="rotate(0.0,940.2825921872566,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="940.2825921872566" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">65</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="955.6191959963307" y="444.5681557633634" transform="rotate(0.0,972.135538559949,473.82567687605865)" xml-id="66" parking-space-id="597"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="955.6191959963307" y="444.5681557633634" transform="rotate(0.0,972.135538559949,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="972.135538559949" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">66</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="987.472142369023" y="444.5681557633634" transform="rotate(0.0,1003.9884849326413,473.82567687605865)" xml-id="67" parking-space-id="598"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="987.472142369023" y="444.5681557633634" transform="rotate(0.0,1003.9884849326413,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1003.9884849326413" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">67</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1019.3250887417151" y="444.5681557633634" transform="rotate(0.0,1035.8414313053336,473.82567687605865)" xml-id="68" parking-space-id="599"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1019.3250887417151" y="444.5681557633634" transform="rotate(0.0,1035.8414313053336,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1035.8414313053336" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">68</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1051.178035114408" y="444.5681557633634" transform="rotate(0.0,1067.6943776780263,473.82567687605865)" xml-id="69" parking-space-id="600"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1051.178035114408" y="444.5681557633634" transform="rotate(0.0,1067.6943776780263,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1067.6943776780263" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">69</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1083.0309814871" y="444.5681557633634" transform="rotate(0.0,1099.5473240507183,473.82567687605865)" xml-id="70" parking-space-id="601"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1083.0309814871" y="444.5681557633634" transform="rotate(0.0,1099.5473240507183,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1099.5473240507183" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">70</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1114.8839278597925" y="444.5681557633634" transform="rotate(0.0,1131.4002704234108,473.82567687605865)" xml-id="71" parking-space-id="602"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1114.8839278597925" y="444.5681557633634" transform="rotate(0.0,1131.4002704234108,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1131.4002704234108" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">71</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1146.736874232485" y="444.5681557633634" transform="rotate(0.0,1163.2532167961033,473.82567687605865)" xml-id="72" parking-space-id="603"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1146.736874232485" y="444.5681557633634" transform="rotate(0.0,1163.2532167961033,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1163.2532167961033" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">72</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1178.5898206051775" y="444.5681557633634" transform="rotate(0.0,1195.1061631687958,473.82567687605865)" xml-id="73" parking-space-id="604"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1178.5898206051775" y="444.5681557633634" transform="rotate(0.0,1195.1061631687958,473.82567687605865)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1195.1061631687958" y="473.82567687605865" class="" font-family="Verdana" font-size="14" fill="black" id="">73</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="604.1479675391853" y="340.0278717457118" transform="rotate(180.0,620.6643101028036,369.2853928584071)" xml-id="74" parking-space-id="605"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="604.1479675391853" y="340.0278717457118" transform="rotate(180.0,620.6643101028036,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="620.6643101028036" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">74</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="636.0009139118775" y="340.0278717457118" transform="rotate(180.0,652.5172564754959,369.2853928584071)" xml-id="75" parking-space-id="606"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="636.0009139118775" y="340.0278717457118" transform="rotate(180.0,652.5172564754959,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="652.5172564754959" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">75</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="667.8538602845701" y="340.0278717457118" transform="rotate(180.0,684.3702028481885,369.2853928584071)" xml-id="76" parking-space-id="607"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="667.8538602845701" y="340.0278717457118" transform="rotate(180.0,684.3702028481885,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="684.3702028481885" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">76</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="699.7068066572624" y="340.0278717457118" transform="rotate(180.0,716.2231492208807,369.2853928584071)" xml-id="77" parking-space-id="608"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="699.7068066572624" y="340.0278717457118" transform="rotate(180.0,716.2231492208807,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="716.2231492208807" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">77</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="731.559753029955" y="340.0278717457118" transform="rotate(180.0,748.0760955935733,369.2853928584071)" xml-id="78" parking-space-id="609"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="731.559753029955" y="340.0278717457118" transform="rotate(180.0,748.0760955935733,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="748.0760955935733" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">78</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="763.4126994026474" y="340.0278717457118" transform="rotate(180.0,779.9290419662657,369.2853928584071)" xml-id="79" parking-space-id="610"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="763.4126994026474" y="340.0278717457118" transform="rotate(180.0,779.9290419662657,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="779.9290419662657" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">79</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="795.26564577534" y="340.0278717457118" transform="rotate(180.0,811.7819883389583,369.2853928584071)" xml-id="80" parking-space-id="611"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="795.26564577534" y="340.0278717457118" transform="rotate(180.0,811.7819883389583,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="811.7819883389583" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">80</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="827.1185921480322" y="340.0278717457118" transform="rotate(180.0,843.6349347116505,369.2853928584071)" xml-id="81" parking-space-id="612"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="827.1185921480322" y="340.0278717457118" transform="rotate(180.0,843.6349347116505,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="843.6349347116505" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">81</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="858.9715385207245" y="340.0278717457118" transform="rotate(180.0,875.4878810843428,369.2853928584071)" xml-id="82" parking-space-id="613"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="858.9715385207245" y="340.0278717457118" transform="rotate(180.0,875.4878810843428,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="875.4878810843428" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">82</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="890.8244848934172" y="340.0278717457118" transform="rotate(180.0,907.3408274570355,369.2853928584071)" xml-id="83" parking-space-id="614"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="890.8244848934172" y="340.0278717457118" transform="rotate(180.0,907.3408274570355,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="907.3408274570355" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">83</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="922.6774312661096" y="340.0278717457118" transform="rotate(180.0,939.1937738297279,369.2853928584071)" xml-id="84" parking-space-id="615"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="922.6774312661096" y="340.0278717457118" transform="rotate(180.0,939.1937738297279,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="939.1937738297279" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">84</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="954.530377638802" y="340.0278717457118" transform="rotate(180.0,971.0467202024203,369.2853928584071)" xml-id="85" parking-space-id="616"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="954.530377638802" y="340.0278717457118" transform="rotate(180.0,971.0467202024203,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="971.0467202024203" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">85</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="986.3833240114946" y="340.0278717457118" transform="rotate(180.0,1002.8996665751129,369.2853928584071)" xml-id="86" parking-space-id="617"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="986.3833240114946" y="340.0278717457118" transform="rotate(180.0,1002.8996665751129,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1002.8996665751129" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">86</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1018.2362703841868" y="340.0278717457118" transform="rotate(180.0,1034.7526129478051,369.2853928584071)" xml-id="87" parking-space-id="618"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1018.2362703841868" y="340.0278717457118" transform="rotate(180.0,1034.7526129478051,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1034.7526129478051" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">87</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1050.0892167568793" y="340.0278717457118" transform="rotate(180.0,1066.6055593204976,369.2853928584071)" xml-id="88" parking-space-id="619"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1050.0892167568793" y="340.0278717457118" transform="rotate(180.0,1066.6055593204976,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1066.6055593204976" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">88</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1081.942163129572" y="340.0278717457118" transform="rotate(180.0,1098.4585056931903,369.2853928584071)" xml-id="89" parking-space-id="620"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1081.942163129572" y="340.0278717457118" transform="rotate(180.0,1098.4585056931903,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1098.4585056931903" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">89</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1113.7951095022645" y="340.0278717457118" transform="rotate(180.0,1130.3114520658828,369.2853928584071)" xml-id="90" parking-space-id="621"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1113.7951095022645" y="340.0278717457118" transform="rotate(180.0,1130.3114520658828,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1130.3114520658828" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">90</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1145.6480558749568" y="340.0278717457118" transform="rotate(180.0,1162.164398438575,369.2853928584071)" xml-id="91" parking-space-id="622"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1145.6480558749568" y="340.0278717457118" transform="rotate(180.0,1162.164398438575,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1162.164398438575" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">91</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1177.501002247649" y="340.0278717457118" transform="rotate(180.0,1194.0173448112673,369.2853928584071)" xml-id="92" parking-space-id="623"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1177.501002247649" y="340.0278717457118" transform="rotate(180.0,1194.0173448112673,369.2853928584071)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1194.0173448112673" y="369.2853928584071" class="" font-family="Verdana" font-size="14" fill="black" id="">92</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="541.4042911576278" y="210.8450037545322" transform="rotate(0.0,557.9206337212461,240.1025248672275)" xml-id="93" parking-space-id="624"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="541.4042911576278" y="210.8450037545322" transform="rotate(0.0,557.9206337212461,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="557.9206337212461" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">93</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="573.2572375303203" y="210.8450037545322" transform="rotate(0.0,589.7735800939386,240.1025248672275)" xml-id="94" parking-space-id="625"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="573.2572375303203" y="210.8450037545322" transform="rotate(0.0,589.7735800939386,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="589.7735800939386" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">94</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="605.1101839030129" y="210.8450037545322" transform="rotate(0.0,621.6265264666312,240.1025248672275)" xml-id="95" parking-space-id="626"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="605.1101839030129" y="210.8450037545322" transform="rotate(0.0,621.6265264666312,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="621.6265264666312" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">95</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="636.9631302757053" y="210.8450037545322" transform="rotate(0.0,653.4794728393236,240.1025248672275)" xml-id="96" parking-space-id="627"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="636.9631302757053" y="210.8450037545322" transform="rotate(0.0,653.4794728393236,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="653.4794728393236" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">96</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="668.8160766483975" y="210.8450037545322" transform="rotate(0.0,685.3324192120158,240.1025248672275)" xml-id="97" parking-space-id="628"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="668.8160766483975" y="210.8450037545322" transform="rotate(0.0,685.3324192120158,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="685.3324192120158" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">97</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="700.6690230210904" y="210.8450037545322" transform="rotate(0.0,717.1853655847087,240.1025248672275)" xml-id="98" parking-space-id="629"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="700.6690230210904" y="210.8450037545322" transform="rotate(0.0,717.1853655847087,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="717.1853655847087" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">98</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="732.5219693937825" y="210.8450037545322" transform="rotate(0.0,749.0383119574008,240.1025248672275)" xml-id="99" parking-space-id="630"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="732.5219693937825" y="210.8450037545322" transform="rotate(0.0,749.0383119574008,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="749.0383119574008" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">99</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="764.374915766475" y="210.8450037545322" transform="rotate(0.0,780.8912583300934,240.1025248672275)" xml-id="100" parking-space-id="631"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="764.374915766475" y="210.8450037545322" transform="rotate(0.0,780.8912583300934,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="780.8912583300934" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">100</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="796.2278621391675" y="210.8450037545322" transform="rotate(0.0,812.7442047027859,240.1025248672275)" xml-id="101" parking-space-id="632"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="796.2278621391675" y="210.8450037545322" transform="rotate(0.0,812.7442047027859,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="812.7442047027859" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">101</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="828.0808085118598" y="210.8450037545322" transform="rotate(0.0,844.5971510754781,240.1025248672275)" xml-id="102" parking-space-id="633"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="828.0808085118598" y="210.8450037545322" transform="rotate(0.0,844.5971510754781,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="844.5971510754781" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">102</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="859.9337548845522" y="210.8450037545322" transform="rotate(0.0,876.4500974481705,240.1025248672275)" xml-id="103" parking-space-id="634"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="859.9337548845522" y="210.8450037545322" transform="rotate(0.0,876.4500974481705,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="876.4500974481705" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">103</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="891.7867012572447" y="210.8450037545322" transform="rotate(0.0,908.303043820863,240.1025248672275)" xml-id="104" parking-space-id="635"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="891.7867012572447" y="210.8450037545322" transform="rotate(0.0,908.303043820863,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="908.303043820863" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">104</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="923.6396476299371" y="210.8450037545322" transform="rotate(0.0,940.1559901935555,240.1025248672275)" xml-id="105" parking-space-id="636"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="923.6396476299371" y="210.8450037545322" transform="rotate(0.0,940.1559901935555,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="940.1559901935555" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">105</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="955.4925940026295" y="210.8450037545322" transform="rotate(0.0,972.0089365662478,240.1025248672275)" xml-id="106" parking-space-id="637"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="955.4925940026295" y="210.8450037545322" transform="rotate(0.0,972.0089365662478,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="972.0089365662478" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">106</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="987.345540375322" y="210.8450037545322" transform="rotate(0.0,1003.8618829389403,240.1025248672275)" xml-id="107" parking-space-id="638"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="987.345540375322" y="210.8450037545322" transform="rotate(0.0,1003.8618829389403,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1003.8618829389403" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">107</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1019.1984867480145" y="210.8450037545322" transform="rotate(0.0,1035.714829311633,240.1025248672275)" xml-id="108" parking-space-id="639"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1019.1984867480145" y="210.8450037545322" transform="rotate(0.0,1035.714829311633,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1035.714829311633" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">108</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1051.0514331207069" y="210.8450037545322" transform="rotate(0.0,1067.5677756843252,240.1025248672275)" xml-id="109" parking-space-id="640"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1051.0514331207069" y="210.8450037545322" transform="rotate(0.0,1067.5677756843252,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1067.5677756843252" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">109</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1082.9043794933993" y="210.8450037545322" transform="rotate(0.0,1099.4207220570177,240.1025248672275)" xml-id="110" parking-space-id="641"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1082.9043794933993" y="210.8450037545322" transform="rotate(0.0,1099.4207220570177,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1099.4207220570177" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">110</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1114.757325866092" y="210.8450037545322" transform="rotate(0.0,1131.2736684297104,240.1025248672275)" xml-id="111" parking-space-id="642"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1114.757325866092" y="210.8450037545322" transform="rotate(0.0,1131.2736684297104,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1131.2736684297104" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">111</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1146.6102722387845" y="210.8450037545322" transform="rotate(0.0,1163.1266148024029,240.1025248672275)" xml-id="112" parking-space-id="643"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1146.6102722387845" y="210.8450037545322" transform="rotate(0.0,1163.1266148024029,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1163.1266148024029" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">112</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="33.03268512723662" height="58.51504222539056" x="1178.4632186114768" y="210.8450037545322" transform="rotate(0.0,1194.9795611750951,240.1025248672275)" xml-id="113" parking-space-id="644"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="33.03268512723662" height="58.51504222539056" x="1178.4632186114768" y="210.8450037545322" transform="rotate(0.0,1194.9795611750951,240.1025248672275)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1194.9795611750951" y="240.1025248672275" class="" font-family="Verdana" font-size="14" fill="black" id="">113</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="45.03268512723661" height="58.51504222539056" x="1314.09305641234" y="574.2855198338606" transform="rotate(180.0,1336.6093989759584,603.5430409465558)" xml-id="114" parking-space-id="42358"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="45.03268512723661" height="58.51504222539056" x="1314.09305641234" y="574.2855198338606" transform="rotate(180.0,1336.6093989759584,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1336.6093989759584" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">114</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="45.03268512723661" height="58.51504222539056" x="1358.1257415395767" y="574.2855198338606" transform="rotate(180.0,1380.642084103195,603.5430409465558)" xml-id="115" parking-space-id="42354"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="45.03268512723661" height="58.51504222539056" x="1358.1257415395767" y="574.2855198338606" transform="rotate(180.0,1380.642084103195,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1380.642084103195" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">115</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="45.03268512723661" height="58.51504222539056" x="1402.1584266668133" y="574.2855198338606" transform="rotate(180.0,1424.6747692304316,603.5430409465558)" xml-id="116" parking-space-id="42355"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="45.03268512723661" height="58.51504222539056" x="1402.1584266668133" y="574.2855198338606" transform="rotate(180.0,1424.6747692304316,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1424.6747692304316" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">116</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="45.03268512723661" height="58.51504222539056" x="1446.19111179405" y="574.2855198338606" transform="rotate(180.0,1468.7074543576682,603.5430409465558)" xml-id="117" parking-space-id="42356"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="45.03268512723661" height="58.51504222539056" x="1446.19111179405" y="574.2855198338606" transform="rotate(180.0,1468.7074543576682,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1468.7074543576682" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">117</text>
+      </g>
+      <g class="parking-space-container">
+        <rect fill="#FFFFFF" class="parking-space" width="45.03268512723661" height="58.51504222539056" x="1490.2237969212865" y="574.2855198338606" transform="rotate(180.0,1512.7401394849048,603.5430409465558)" xml-id="118" parking-space-id="42357"/>
+        <image preserveAspectRatio="none" href="https://api.parking-pilot.com/assets/svg/parking-space.png" class="parking-space-image" width="45.03268512723661" height="58.51504222539056" x="1490.2237969212865" y="574.2855198338606" transform="rotate(180.0,1512.7401394849048,603.5430409465558)"/>
+        <text dominant-baseline="central" text-anchor="middle" x="1512.7401394849048" y="603.5430409465558" class="" font-family="Verdana" font-size="14" fill="black" id="">118</text>
+      </g>
+    </g>
+  </g>
+</svg>

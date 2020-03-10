@@ -1,0 +1,524 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "padding": 16,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "borderBottomWidth": 1,
+          "borderColor": "#000",
+          "borderLeftWidth": 1,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          undefined,
+          0,
+          Object {
+            "flexDirection": "row",
+            "overflow": "hidden",
+          },
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#BB2D37",
+            "height": 40,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "borderColor": "#000",
+              "borderRightWidth": 1,
+              "borderTopWidth": 1,
+            },
+            Object {
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+            undefined,
+            Object {
+              "flex": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "alignContent": "center",
+                "color": "#fff",
+                "fontSize": 15,
+                "marginTop": 10,
+                "padding": 5,
+                "textAlign": "center",
+              },
+              Object {
+                "backgroundColor": "transparent",
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          0,
+          0,
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            undefined,
+            0,
+            Object {
+              "flexDirection": "row",
+              "overflow": "hidden",
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            1. - 3. Stunde
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            je 1.50€
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+            0,
+            Object {
+              "flexDirection": "row",
+              "overflow": "hidden",
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            4. Stunde
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            1.00€
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+            0,
+            Object {
+              "flexDirection": "row",
+              "overflow": "hidden",
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            Tageshöchstgebühr
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            5.50€
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+            0,
+            Object {
+              "flexDirection": "row",
+              "overflow": "hidden",
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            Kongressticket 7-Tage
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            25.00€
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+            0,
+            Object {
+              "flexDirection": "row",
+              "overflow": "hidden",
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            Kongressticket 28-Tage
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "#000",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+              },
+              Object {
+                "justifyContent": "center",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "flex": 1,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "margin": 6,
+                },
+                Object {
+                  "backgroundColor": "transparent",
+                },
+              ]
+            }
+          >
+            50.00€
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

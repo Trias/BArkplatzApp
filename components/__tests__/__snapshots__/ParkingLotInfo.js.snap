@@ -1,0 +1,234 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "height": "50%",
+      "paddingTop": 5,
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        Object {
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+    >
+      Bamberg PuR Bahnhof Brennerstrasse 97
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-around",
+          "paddingVertical": 5,
+        }
+      }
+    >
+      <View
+        accessibilityRole="button"
+        accessibilityStates={Array []}
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "padding": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Parkplatzansicht
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityRole="button"
+        accessibilityStates={Array []}
+        accessible={true}
+        isTVSelectable={true}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "padding": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Navigation
+          </Text>
+        </View>
+      </View>
+    </View>
+    <Text
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      Es ist weniger los als sonst
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "height": 355,
+          "marginLeft": 2,
+          "paddingRight": 10,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 294,
+            },
+          ]
+        }
+      >
+        <View
+          onLayout={[Function]}
+          style={
+            Object {
+              "flexGrow": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "fontSize": 10,
+                "opacity": 0,
+              }
+            }
+          >
+            100%
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "marginLeft": 4,
+            "marginRight": 8,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flex": 1,
+              "height": 284,
+              "width": 710,
+            }
+          }
+        >
+          <View
+            onLayout={[Function]}
+            style={
+              Object {
+                "flex": 1,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "marginTop": 2,
+              "width": 710,
+            }
+          }
+        >
+          <View
+            onLayout={[Function]}
+            style={
+              Object {
+                "flexGrow": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": undefined,
+                  "opacity": 0,
+                }
+              }
+            >
+              0-3
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <Text
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      Freie Parkplätze: 
+      85
+       / 
+      118
+    </Text>
+  </View>
+</RCTScrollView>
+`;

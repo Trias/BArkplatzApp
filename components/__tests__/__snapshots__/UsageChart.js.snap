@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "height": 355,
+      "marginLeft": 2,
+      "paddingRight": 10,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "height": 294,
+        },
+      ]
+    }
+  >
+    <View
+      onLayout={[Function]}
+      style={
+        Object {
+          "flexGrow": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 10,
+            "opacity": 0,
+          }
+        }
+      >
+        100%
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "marginLeft": 4,
+        "marginRight": 8,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "height": 284,
+          "width": 710,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 2,
+          "width": 710,
+        }
+      }
+    >
+      <View
+        onLayout={[Function]}
+        style={
+          Object {
+            "flexGrow": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": undefined,
+              "opacity": 0,
+            }
+          }
+        >
+          0-3
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
